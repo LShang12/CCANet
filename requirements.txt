@@ -1,0 +1,19 @@
+# torch==2.0.1
+# torchvision==0.15.2
+onnx
+onnxruntime
+pycocotools
+PyYAML
+scipy
+onnxsim
+onnxruntime-gpu
+gradio
+opencv-python
+psutil
+py-cpuinfo
+huggingface-hub
+safetensors
+numpy
+mmengine
+einops
+timm
